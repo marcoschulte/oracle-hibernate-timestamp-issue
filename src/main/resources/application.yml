@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    generate-ddl: true
+    # does not make any difference:
+    # properties:
+    #   hibernate.jdbc.time_zone: Europe/Berlin
+    #   hibernate.jdbc.time_zone: UTC
